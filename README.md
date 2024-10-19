@@ -16,13 +16,7 @@ This project implements Lagrange interpolation to find the constant term of a po
 
 ## Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   
-2. **Run the Application:**
+1. **Run the Application:**
    
    Use the following command in your terminal:
    ```bash
