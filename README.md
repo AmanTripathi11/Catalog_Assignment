@@ -1,6 +1,6 @@
 # Catalog_Assignment
 
-# Lagrange Polynomial Constant Term Finder
+
 
 This project implements Lagrange interpolation to find the constant term of a polynomial defined by given roots, utilizing JavaScript and the Node.js environment. It reads input data from a separate JSON file and checks various constraints regarding polynomial coefficients.
 
