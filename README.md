@@ -21,3 +21,10 @@ This project implements Lagrange interpolation to find the constant term of a po
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+   
+2. **Run the Application:**
+   
+   Use the following command in your terminal:
+   npm init -y
+   npm i fs
+   node index.js
