@@ -25,6 +25,7 @@ This project implements Lagrange interpolation to find the constant term of a po
 2. **Run the Application:**
    
    Use the following command in your terminal:
+   ```bash
    npm init -y
    npm i fs
    node index.js
